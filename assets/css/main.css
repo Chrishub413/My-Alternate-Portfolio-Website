@@ -4861,7 +4861,7 @@ a img {
     font-size: 35px;
     display: block;
     line-height: 1;
-    color: #fff;
+    color: #ffffff;
 }
 
 @media only screen and (min-width:550px) {
@@ -5009,7 +5009,8 @@ a img {
 
 .user-details {
     text-align: center;
-    margin: 6px auto
+    margin: 6px auto;
+    font-size: 25px;
 }
 
 #projects {
