@@ -4861,7 +4861,10 @@ a img {
     font-size: 35px;
     display: block;
     line-height: 1;
-    color: #ffffff;
+    color: #fff9f0;
+    h2 {
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    }
 }
 
 @media only screen and (min-width:550px) {
